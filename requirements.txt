@@ -1,0 +1,10 @@
+gunicorn
+Flask
+werkzeug
+keras
+tensorflow
+matplotlib
+pandas
+sklearn
+os
+pickle
